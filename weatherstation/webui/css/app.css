@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	padding: 20px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #fff;
+}
+
+.gauge-section {
+	display: inline-block;
+	text-align: center;
+}
+
+.gauge-section h3 {
+	margin-bottom: 0;
+}
+
+.gauge {
+	display: inline-block;
+}
+
+.actions {
+	margin-top: 15px;
+}
+
+.btn {
+	color: #333;
+	border: 0;
+	border-radius: 3px;
+	box-shadow: 0px 1px 3px #666666;
+	background: #fff;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.btn-icon {
+	padding: 2px 15px 2px 15px;
+}
+
+.btn:active {
+	background: #dddddd;
+	text-decoration: none;
+}
